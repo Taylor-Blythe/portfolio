@@ -1,0 +1,51 @@
+/* single line and block */
+/* selector styling - applying style to a tag */
+
+body{
+    background-color: #F5F5F5;
+    color:#40407A;
+    font-family: Verdana,Arial, sans-serif;
+}
+
+header{
+    background-color: #80CBC4;
+    text-align: center;
+}
+
+h1{
+    line-height: 200%;
+}
+h2{
+    font-size: 200%;
+}
+
+nav{
+    text-align: center;
+    font-weight: bold;
+}
+
+nav a{
+    text-decoration: none;
+}
+
+footer{
+    background-color: #80CBC4;
+    font-size: .6em;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+
+/* class */
+.studio{
+    color:#40407A;
+    font-style: italic;
+}
+
+/* id styling where you can apply to tags with this id */
+#wrapper{
+    /* auto space evenly on both sides */
+    margin-right: auto;
+    margin-left: auto;
+    width: 80%;
+}

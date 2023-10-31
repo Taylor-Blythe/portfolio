@@ -1,0 +1,8 @@
+jo,300
+jose,100
+demonTime,99
+t,79
+baba,25
+ff,18
+asd,18
+john,18
